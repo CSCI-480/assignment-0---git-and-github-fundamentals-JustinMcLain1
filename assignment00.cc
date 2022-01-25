@@ -7,4 +7,7 @@
 
 */
 
-cut << "Data Structures are Important" << std::endl;
+std::cout << "Data Structures are Important" << std::endl;
+
+
+std::cout << "Data structures are important" << std::endl;
