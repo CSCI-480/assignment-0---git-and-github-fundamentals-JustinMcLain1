@@ -6,3 +6,5 @@
    of teh starter code provided from the assignment
 
 */
+
+cut << "Data Structures are Important" << std::endl;
